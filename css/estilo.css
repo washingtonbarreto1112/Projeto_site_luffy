@@ -1,0 +1,76 @@
+main{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#caixa1{
+	width: 1000px;
+	height: 400px;
+	background-color: darkblue;
+	color: white;
+	padding-top:90px;
+	text-align: center;
+
+
+}
+
+#caixa2{
+	width: 1000px;
+	height: 1820px;
+	background-color: orange;
+	text-align: center;
+}
+
+#caixa3{
+	width: 1000px;
+	height: 800px;
+	background-color: darkred;
+	color: white;
+	text-align: center;
+}
+
+#caixa4{
+	width: 1000px;
+	height: 1400px;
+	background-color:black;
+	color: yellow;
+	text-align: center;
+}
+
+#caixa5{
+	width: 1000px;
+	height: 900px;
+	background-color: green;
+	color: black;
+	text-align: center;
+}
+
+nav{
+	width: 100%;
+	background-color: black;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+nav ul{
+	text-align: center;
+}
+
+nav ul li{
+	display: inline-block;	
+
+}
+
+nav a{
+	padding: 10px 40px;
+	text-decoration: none;
+	color: white;
+	font-size: 22px;
+}
+
+/* nav a:hover{
+	color: skyblue;
+	background-color: rgba(255,255,255,0.2);
+} */
+
